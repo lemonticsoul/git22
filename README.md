@@ -2,7 +2,7 @@
 
 코테 문제:
 
-
+```
 import sys
 input=sys.stdin.readline
 
@@ -26,7 +26,7 @@ def dfs(x):
             dfs(x+1)
     return cnt
 dfs(0)
-print(cnt)
+print(cnt) ```
 
 
 
