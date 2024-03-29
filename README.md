@@ -2,8 +2,7 @@
 
 코테 문제:
 
-```
-import sys
+```import sys
 input=sys.stdin.readline
 
 n=12
