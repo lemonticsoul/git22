@@ -2,7 +2,7 @@
 
 코테 문제:
 
-```python
+
 import sys
 input=sys.stdin.readline
 
@@ -27,7 +27,7 @@ def dfs(x):
     return cnt
 dfs(0)
 print(cnt)
-python'''
+
 
 
 
@@ -48,7 +48,7 @@ real    11.488s
 user   11.470s
 sys     0.012s
 
-### 
+### T2.small
 
 ## t3계열
 
