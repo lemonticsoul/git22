@@ -27,8 +27,7 @@ def dfs(x):
     return cnt
 dfs(0)
 print(cnt)
-
-'''
+python'''
 
 
 
