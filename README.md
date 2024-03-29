@@ -173,6 +173,9 @@ cpu성능이 좋아질수록 t에서 유의미한 속도차이를 느끼지 못�
 
 C5으로 바꾸었더니 코테 시간이 확 줄어들었던것을 확인하였다.
 
+![image](https://github.com/lemonticsoul/git22/assets/127959482/7029241d-3842-4e29-9116-596dafcab898)
+
+
 ![image](https://github.com/lemonticsoul/git22/assets/127959482/36eea0d7-7528-4a4a-a3d4-e2127a7d0593)
 
 
