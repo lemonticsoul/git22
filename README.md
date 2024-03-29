@@ -30,9 +30,6 @@ print(cnt)
 
 일반으로 돌렸을때?
 
-= RESTART: C:/Users/campus3S021/AppData/Local/Programs/Python/Python312/ajsdlfjasldfjlasjdflajsfd.py
-12
-14200
 4.151427 sec
 
 
