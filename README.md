@@ -2,7 +2,7 @@
 
 코테 문제:
 ## N-Queen
-'''python
+```python
 import sys
 input=sys.stdin.readline
 
