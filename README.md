@@ -144,6 +144,12 @@ real    0m11.876s
 user    0m11.872s
 sys     0m0.004s
 
+### c4.4xlarge
+
+real    0m11.941s
+user    0m11.933s
+sys     0m0.008s
+
 ### c5.4xlarge
 
 1.cpu 사용
